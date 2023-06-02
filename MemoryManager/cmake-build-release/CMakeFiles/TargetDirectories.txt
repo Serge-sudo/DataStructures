@@ -1,0 +1,5 @@
+/home/mrjohn/Desktop/MIPT/EffectiveStructuresCT/Task2-MemoryManager/cmake-build-release/CMakeFiles/memoryManager.dir
+/home/mrjohn/Desktop/MIPT/EffectiveStructuresCT/Task2-MemoryManager/cmake-build-release/CMakeFiles/doctest.dir
+/home/mrjohn/Desktop/MIPT/EffectiveStructuresCT/Task2-MemoryManager/cmake-build-release/CMakeFiles/test.dir
+/home/mrjohn/Desktop/MIPT/EffectiveStructuresCT/Task2-MemoryManager/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/mrjohn/Desktop/MIPT/EffectiveStructuresCT/Task2-MemoryManager/cmake-build-release/CMakeFiles/rebuild_cache.dir
